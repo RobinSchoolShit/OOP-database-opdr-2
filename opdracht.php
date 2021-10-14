@@ -84,12 +84,12 @@ $rowB->append(new Cell('18 jaar'));
 
 $rowC = new Row();
 $rowC->append(new Cell('2'));
-$rowC->append(new Cell('Jele kragten'));
+$rowC->append(new Cell('Jelle kragten'));
 $rowC->append(new Cell('16 jaar'));
 
 $rowD = new Row();
 $rowD->append(new Cell('3'));
-$rowD->append(new Cell('Jeffrey van Os'));
+$rowD->append(new Cell('Jeffrey Vos'));
 $rowD->append(new Cell('21 jaar'));
 
 $rowE = new Row();
